@@ -1,4 +1,10 @@
-My Magisk modules are simple and useful
-but not all phones detect them
-As soon as possible
-all devices will support these modules
+These Magisk modules are designed to be simple lightweight and useful for everyday Android users
+They aim to improve system behavior without heavily modifying the core system files
+Currently, not all devices can properly detect or run these modules
+This is due to differences in Android versions ROMs and device configurations
+Work is ongoing to improve compatibility across more devices and systems
+Future updates will focus on better detection and broader device support
+Users are encouraged to test the modules and report any issues they encounter
+Feedback helps identify bugs and device-specific problems faster
+Each update will aim to be more stable and reliable than the previous one
+Full support for more devices will be added as soon as possible...
