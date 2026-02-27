@@ -1,10 +1,10 @@
-These Magisk modules are simple lightweight and practical for everyday Android use
-They improve system behavior without making heavy changes to core system files
-At present these modules may not work properly on all devices
-This is due to differences in Android versions custom ROMs and hardware configurations
-Development is ongoing to expand compatibility across more devices and systems
-Future updates will focus on improved detection and broader device support
-Users are encouraged to test the modules and report any issues they encounter
-Feedback helps identify bugs and device specific problems more efficiently
-Each update aims to be more stable and reliable than the previous one
-Support for more devices will be added as soon as possible...
+These Magisk modules are made to be simple lightweight and useful for daily Android use
+They help improve system behavior without making risky or heavy changes to important system files
+Right now the modules may not work perfectly on every device
+This is normal because Android versions custom ROMs and hardware are different from one device to another
+I am actively working on improving compatibility and adding support for more devices
+Future updates will bring better detection wider device support and more stability
+Users are welcome to test the modules and report any problems they find
+Your feedback is very important and helps make the modules better and more reliable over time
+Each update is meant to be better than the one before it
+More devices will be supported as development continues
